@@ -1,16 +1,5 @@
 ## Hi there 👋 I'm a passionate software developer with expertise in creating scalable and efficient applications. My tech stack includes:
 
-Programming Languages: Python, Java, JavaScript, SQL, PHP
-Frameworks: Node.js, Express.js
-Databases: MySQL, MongoDB
-DevOps & Cloud: Docker, Azure, AWS
-Version Control: Git, GitHub
-🔧 I specialize in building RESTful APIs, crafting seamless user experiences, and leveraging cloud services to optimize application performance. I love collaborating on open-source projects, solving complex problems, and continuously learning new technologies.
-
-🌱 Currently Exploring: Advanced cloud architectures and microservices development.
-📫 Reach me at: wongsaphatbbgun@gmail.com
-💡 Fun Fact: I believe great coffee fuels great code! ☕
-
 <!--
 **Bee34949/BEE34949** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
