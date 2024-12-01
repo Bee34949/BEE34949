@@ -1,4 +1,4 @@
-## Hi there 👋 I'm a passionate software developer with expertise in creating scalable and efficient applications. My tech stack includes:
+## Hi there 👋 I'm a passionate software developer with expertise in creating scalable and efficient applications. 
 
 <!--
 **Bee34949/BEE34949** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
