@@ -55,7 +55,9 @@ Here are some ideas to get you started:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bee34949&layout=compact&theme=radical&card_width=500)
+
+
 
 ---
 
@@ -71,9 +73,6 @@ Here are some ideas to get you started:
 ---
 
 ## 📂 Featured Repositories
-
-## 📂 Featured Repositories
-
 <a href="https://github.com/Bee34949/BE_Febonacci">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Bee34949&repo=BE_Febonacci&theme=radical" />
 </a>
