@@ -12,7 +12,8 @@ Here are some ideas to get you started:
 
 ---
 
-![Profile Banner](https://source.unsplash.com/1600x400/?technology,code) <!-- Change to your custom banner -->
+![Profile Banner](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+
 
 ---
 
