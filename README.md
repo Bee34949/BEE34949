@@ -72,12 +72,16 @@ Here are some ideas to get you started:
 
 ## 📂 Featured Repositories
 
-<a href="[https://github.com/yourusername/repo1](https://github.com/Bee34949/BE_Febonacci.git)">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=repo1&theme=radical" />
+## 📂 Featured Repositories
+
+<a href="https://github.com/Bee34949/BE_Febonacci">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Bee34949&repo=BE_Febonacci&theme=radical" />
 </a>
-<a href="https://github.com/yourusername/repo2">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=repo2&theme=radical" />
+
+<a href="https://github.com/Bee34949/BE_Laundromat_System">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Bee34949&repo=BE_Laundromat_System&theme=radical" />
 </a>
+
 
 ---
 
