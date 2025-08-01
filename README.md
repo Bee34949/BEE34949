@@ -48,7 +48,7 @@
 
 #### 🧠 AWS_Transribe
 > Vue.js + AWS Lambda (serverless architecture) + Amazon S3 + Amazon Transcribe + AWS API Gateway 
-> [🔗 GitHub Repo](https://github.com/Bee34949/AWS_Transribe
+> [🔗 GitHub Repo](https://github.com/SarayutBz/AWS_Transribe
 )
 
 #### 🧮 Fibonacci Backend API
