@@ -44,11 +44,12 @@
 
 #### 🗺️ Indoor Navigation System for Airports
 > Leaflet.js + AI + Persona Recommendation → Smart Airport Guide  
-> [🔗 GitHub Repo](https://github.com/Bee34949/IndoorMap-AI)
+> [🔗 GitHub Repo](https://github.com/Bee34949/AiAirport)
 
-#### 🧠 AI-based Student Face Recognition via CCTV
-> Python YOLOv8 + ReID + Attendance System  
-> [🔗 GitHub Repo](https://github.com/Bee34949/AI-FaceCCTV)
+#### 🧠 AWS_Transribe
+> Vue.js + AWS Lambda (serverless architecture) + Amazon S3 + Amazon Transcribe + AWS API Gateway 
+> [🔗 GitHub Repo](https://github.com/Bee34949/AWS_Transribe
+)
 
 #### 🧮 Fibonacci Backend API
 > Node.js + Express + RESTful API to calculate and return Fibonacci sequences  
