@@ -1,99 +1,79 @@
-## Hi there 👋 I'm a passionate software developer with expertise in creating scalable and efficient applications. 
+<h1 align="center">สวัสดีครับ 👋 I'm Wongsaphat Nagmuang</h1>
+<h3 align="center">🚀 Final-year CS Student | Backend & AI Developer | Smart Airport Navigator</h3>
 
-<!--
-**Bee34949/BEE34949** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently studying at MJU
-- 🌱 I’m currently learning Programming (BE Development)
-- 📫 How to contact me: wongsaphatbbgun@gmail.com
--->
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
+</p>
 
 ---
 
-![Profile Banner](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
-
-
----
-
-## 🌐 Socials:
-
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/yourprofile)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/yourprofile)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/yourprofile)
+### 📫 Contact Me
+- 📧 **Email**: wongsaphatbbgun@gmail.com  
+- 🌐 **Portfolio**: [portfolio-website](https://bee34949.github.io/portfolio-website)
+- 💼 **GitHub**: [github.com/Bee34949](https://github.com/Bee34949)
 
 ---
 
-## 💻 Tech Stack:
+### 🔧 Tech Stack
 
-### Programming Languages:
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+**Backend:**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-404D59?style=flat)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
 
-### Frameworks and Libraries:
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+**Frontend:**  
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vue.js)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css)
 
-### Databases:
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+**AI/ML:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python)
+![YOLO](https://img.shields.io/badge/YOLOv8-FFAD00?style=flat)
+![Gait Recognition](https://img.shields.io/badge/Gait-Analysis-blue?style=flat)
+![ReID](https://img.shields.io/badge/ReID-PersonID-purple?style=flat)
 
----
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bee34949&layout=compact&theme=radical&card_width=500)
-
-
+**Databases & Tools:**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git)
 
 ---
 
-## 🏆 GitHub Trophies
+### 🚀 Projects
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical)
+#### 🗺️ Indoor Navigation System for Airports
+> Leaflet.js + AI + Persona Recommendation → Smart Airport Guide  
+> [🔗 GitHub Repo](https://github.com/Bee34949/IndoorMap-AI)
+
+#### 🧠 AI-based Student Face Recognition via CCTV
+> Python YOLOv8 + ReID + Attendance System  
+> [🔗 GitHub Repo](https://github.com/Bee34949/AI-FaceCCTV)
+
+#### 🧮 Fibonacci Backend API
+> Node.js + Express + RESTful API to calculate and return Fibonacci sequences  
+> [🔗 GitHub Repo](https://github.com/Bee34949/BE_Febonacci)
 
 ---
 
-## 🎯 Random Developer Quote
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Bee34949&show_icons=true&theme=radical" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bee34949&layout=compact&theme=radical" width="300"/>
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Bee34949&theme=radical" />
+</p>
+
+---
+
+### 💡 Dev Quote of the Day
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-
-## 📂 Featured Repositories
-<a href="https://github.com/Bee34949/BE_Febonacci">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Bee34949&repo=BE_Febonacci&theme=radical" />
-</a>
-
-<a href="https://github.com/Bee34949/BE_Laundromat_System">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Bee34949&repo=BE_Laundromat_System&theme=radical" />
-</a>
-
-
----
-
-## 🖼️ Fun GIFs!
-
-![GIF](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
-
----
-
-### 🌟 Want to collaborate? Feel free to reach out!
-
-📧 **Email:** wongsaphatbbgun@gmail.com
 
 ---
 
